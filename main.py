@@ -5,7 +5,7 @@ from handlers.info import info
 from handlers.download import download_and_send_video
 from handlers.broadcast import broadcast
 
-TELEGRAM_BOT_TOKEN = '6996568724:AAFrjf88-0uUXJumDiuV6CbVuXCJvT-4KbY'  # Replace with your actual token
+TELEGRAM_BOT_TOKEN = '8136558497:AAGqHjBeqV9cWnDNZfm_hYwVMMQZaN7G_QA'  # Replace with your actual token
 
 # Semaphore to limit concurrent downloads
 max_concurrent_downloads = 5
